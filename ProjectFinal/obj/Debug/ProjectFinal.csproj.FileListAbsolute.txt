@@ -1,0 +1,111 @@
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormConfirm.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormDashboardSalesPerson.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormReceipt.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdateCart.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdatePassword.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe.config
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe.config
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormConfirm.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormDashboardSalesPerson.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormReceipt.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdateCart.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdatePassword.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormManager.pdb
+G:\My Drive\01. University\01. Class\C#\MyProject\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe.config
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.pdb
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe.config
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormManager.pdb
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe.config
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.pdb
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe.config
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormConfirm.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormDashboardSalesPerson.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormReceipt.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdateCart.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdatePassword.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+C:\Users\User\Desktop\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormConfirm.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormDashboardSalesPerson.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormReceipt.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdateCart.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormUpdatePassword.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormLogIn.exe.config
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormManager.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormManager.exe.config
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.pdb
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\bin\Debug\FormDashAdmin.exe.config
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+J:\Coding\Codes\C#\projects\AIUB\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.FormBills.resources
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\ProjectFinal.exe
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\ProjectFinal.pdb
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormManager.exe
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormDashAdmin.exe
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormLogIn.pdb
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormLogIn.exe.config
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormManager.pdb
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormManager.exe.config
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormDashAdmin.pdb
+C:\Users\User\Desktop\ProjectFinal\bin\Debug\FormDashAdmin.exe.config
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormBills.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormConfirm.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormDashboardSalesPerson.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormReceipt.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormUpdateCart.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.FormUpdatePassword.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.exe
+C:\Users\User\Desktop\ProjectFinal\obj\Debug\ProjectFinal.pdb

@@ -1,0 +1,71 @@
+-----------------------------------------------------------------------
+Bill ID: b-001
+
+1. GIGABYTE - REVO 8GB - RAM - 2 quantity - 3000
+2. Samsung - EVO 225GB - SSD - 1 quantity - 2000
+3. Intel - i5-5230 - Processor - 1 quantity - 15000
+
+
+Total items: 4 - Total cost (BDT): 19000 including discount: 5%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-002
+
+1. Intel - i5-5230 - Processor - 1 quantity - 15000
+2. Samsung - EVO 225GB - SSD - 1 quantity - 2000
+3. GIGABYTE - REVO 8GB - RAM - 2 quantity - 3000
+
+
+Total items: 4 - Total cost (BDT): 18000 including discount: 10%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-003
+
+1. Samsung - EVO 225GB - SSD - 3 quantity - 6000
+2. GIGABYTE - REVO 8GB - RAM - 2 quantity - 3000
+3. Intel - i5-5230 - Processor - 2 quantity - 30000
+4. AMD - RYZEN 7 5800X - Processor - 1 quantity - 22000
+
+
+Total items: 8 - Total cost (BDT): 54900 including discount: 10%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-005
+
+1. AMD - RYZEN 7 5800X - Processor - 1 quantity - 22000
+2. Samsung - EVO 225GB - SSD - 1 quantity - 2000
+3. GIGABYTE - REVO 8GB - RAM - 1 quantity - 1500
+4. Intel - i5-5230 - Processor - 1 quantity - 15000
+5. Toshiba - Amus 500GB - HDD - 1 quantity - 3000
+
+
+Total items: 5 - Total cost (BDT): 43500 -  Final cost (BDT): 39150 including discount: 10%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-006
+
+1. GIGABYTE - REVO 8GB - RAM - 2 quantity - 3000
+
+
+Total items: 2 - Total cost (BDT): 3000 - Final cost (BDT): 3000 including discount: 0%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-007
+
+1. Samsung - EVO 225GB - SSD - 1 quantity - 2000
+2. AMD - RYZEN 7 5800X - Processor - 1 quantity - 22000
+3. Intel - i5-5230 - Processor - 2 quantity - 30000
+4. Toshiba - Amus 500GB - HDD - 4 quantity - 12000
+
+
+Total items: 8 - Total cost (BDT): 66000 - Final cost (BDT): 33000 including discount: 50%
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Bill ID: b-008
+
+1. GIGABYTE - REVO 8GB - RAM - 1 quantity - 1500
+2. Toshiba - Amus 500GB - HDD - 2 quantity - 6000
+
+
+Total items: 3 - Total cost (BDT): 7500 - Final cost (BDT): 6750 including discount: 10%
+-----------------------------------------------------------------------

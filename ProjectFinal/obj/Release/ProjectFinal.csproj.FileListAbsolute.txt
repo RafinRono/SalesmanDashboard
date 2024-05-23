@@ -1,0 +1,14 @@
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.exe.config
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.pdb
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.csproj.AssemblyReference.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.FormConfirm.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.FormDashboardSalesPerson.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.FormReceipt.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.FormUpdateCart.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.FormUpdatePassword.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.Properties.Resources.resources
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.csproj.GenerateResource.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.csproj.CoreCompileInputs.cache
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.exe
+J:\Coding\Codes\C#\projects\AIUB\Final\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.pdb
